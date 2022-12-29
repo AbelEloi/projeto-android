@@ -25,12 +25,12 @@ Obs: também é possivel criar uma pseudo-classe com (:root) que é a raiz da á
 }
 
 :root {
-    --cor0: #F6c4c4;
-    --cor1: #F7220F;
-    --cor2: #EB210D;
-    --cor3: #D11D0D;
-    --cor4: #AB180A;
-    --cor5: #6B0F06;
+    --cor0: #c5ebd6;
+    --cor1: #83e1ad;
+    --cor2: #3ddc84;
+    --cor3: #2fa866;
+    --cor4: #1a5c37;
+    --cor5: #063d1e;
 
     --fonte-padrao: arial, verdana, helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
